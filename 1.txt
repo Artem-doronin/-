@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-This is the first file 
-ffff
-=======
-This is the first file greg
 
->>>>>>> 7e5318b69d7d46bb0d3ed18ddc226d451a7834ce
+This is the first fil
+
+
